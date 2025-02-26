@@ -74,5 +74,3 @@ This project implements **K-Means clustering** for **unsupervised image clusteri
 
 ---
 
-
-🚀 Now your README is **properly formatted** and **GitHub-ready**! Let me know if you need any modifications. 😊
